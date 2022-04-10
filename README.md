@@ -1,1 +1,1 @@
-# Courseera_Programming_Assignment1
+# Courseera_Programming_Assignments
